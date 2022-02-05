@@ -45,11 +45,56 @@ Class participation is up to 28% of your grade. It reflects the extent to which 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 28% |
-| Three group case reports (12% each) | 36% |
-| Group presentation | 36% |
-| In-class final (optional) | 28% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+28%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three group case reports (12% each)
+{{< tdclose >}}
+{{< tdopen >}}
+36%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group presentation
+{{< tdclose >}}
+{{< tdopen >}}
+36%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class final (optional)
+{{< tdclose >}}
+{{< tdopen >}}
+28%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 If you choose to do the final, it will be worth a maximum of 28 points and it will substitute in for your class participation scores (if it is higher).
